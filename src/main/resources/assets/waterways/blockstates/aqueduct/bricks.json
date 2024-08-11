@@ -1,0 +1,41 @@
+{
+    "multipart": [
+        {
+            "apply": {
+                "model": "waterways:block/aqueduct/bricks/base"
+            }
+        },
+        {
+            "when": {
+                "north": "false"
+            },
+            "apply": {
+                "model": "waterways:block/aqueduct/bricks/north"
+            }
+        },
+        {
+            "when": {
+                "east": "false"
+            },
+            "apply": {
+                "model": "waterways:block/aqueduct/bricks/east"
+            }
+        },
+        {
+            "when": {
+                "south": "false"
+            },
+            "apply": {
+                "model": "waterways:block/aqueduct/bricks/south"
+            }
+        },
+        {
+            "when": {
+                "west": "false"
+            },
+            "apply": {
+                "model": "waterways:block/aqueduct/bricks/west"
+            }
+        }
+    ]
+}

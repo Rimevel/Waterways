@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "X X",
+        "MXM"
+    ],
+    "key": {
+        "X": {
+            "item": "minecraft:end_stone_bricks"
+        },
+        "M": {
+            "item": "minecraft:clay_ball",
+            "count": 8
+        }
+    },
+    "result": {
+        "item": "waterways:aqueduct/end_stone_bricks"
+    }
+}

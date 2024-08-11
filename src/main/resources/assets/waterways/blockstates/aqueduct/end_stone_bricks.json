@@ -1,0 +1,41 @@
+{
+    "multipart": [
+        {
+            "apply": {
+                "model": "waterways:block/aqueduct/end_stone_bricks/base"
+            }
+        },
+        {
+            "when": {
+                "north": "false"
+            },
+            "apply": {
+                "model": "waterways:block/aqueduct/end_stone_bricks/north"
+            }
+        },
+        {
+            "when": {
+                "east": "false"
+            },
+            "apply": {
+                "model": "waterways:block/aqueduct/end_stone_bricks/east"
+            }
+        },
+        {
+            "when": {
+                "south": "false"
+            },
+            "apply": {
+                "model": "waterways:block/aqueduct/end_stone_bricks/south"
+            }
+        },
+        {
+            "when": {
+                "west": "false"
+            },
+            "apply": {
+                "model": "waterways:block/aqueduct/end_stone_bricks/west"
+            }
+        }
+    ]
+}

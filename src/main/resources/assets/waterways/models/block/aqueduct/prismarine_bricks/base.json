@@ -1,0 +1,7 @@
+{
+    "parent": "waterways:block/aqueduct/base",
+    "textures": {
+        "texture": "minecraft:block/prismarine_bricks",
+        "particle": "minecraft:block/prismarine_bricks"
+    }
+}

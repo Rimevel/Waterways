@@ -1,0 +1,11 @@
+{
+  "name": "waterways",
+  "version": "1.0.0",
+  "description": "Standalone aqueducts and water logistics from the TFC mod",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rimevel",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+    "itemgroup.waterways.creativetab": "Waterways",
+    "block.waterways.aqueduct.stone_bricks": "Stone Bricks Aqueduct",
+    "block.waterways.aqueduct.mossy_stone_bricks": "Mossy Stone Bricks Aqueduct",
+    "block.waterways.aqueduct.deepslate_bricks": "Deepslate Bricks Aqueduct",
+    "block.waterways.aqueduct.bricks": "Bricks Aqueduct",
+    "block.waterways.aqueduct.mud_bricks": "Mud Bricks Aqueduct",
+    "block.waterways.aqueduct.prismarine_bricks": "Prismarine Bricks Aqueduct",
+    "block.waterways.aqueduct.nether_bricks": "Nether Bricks Aqueduct",
+    "block.waterways.aqueduct.red_nether_bricks": "Red Nether Bricks Aqueduct",
+    "block.waterways.aqueduct.polished_blackstone_bricks": "Polished Blackstone Bricks Aqueduct",
+    "block.waterways.aqueduct.end_stone_bricks": "End Stone Bricks Aqueduct",
+    "block.waterways.aqueduct.quartz_bricks": "Quartz Bricks Aqueduct"
+}

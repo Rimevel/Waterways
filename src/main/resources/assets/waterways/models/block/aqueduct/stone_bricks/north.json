@@ -1,0 +1,7 @@
+{
+    "parent": "waterways:block/aqueduct/north",
+    "textures": {
+        "texture": "minecraft:block/stone_bricks",
+        "particle": "minecraft:block/stone_bricks"
+    }
+}
